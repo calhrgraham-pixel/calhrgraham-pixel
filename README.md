@@ -72,18 +72,8 @@ I'm a second-year **Computer Science** student at the **Illinois Institute of Te
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=calhrgraham-pixel&show_icons=true&theme=github_dark&hide_border=true" alt="Cal's GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=calhrgraham-pixel&theme=github-dark-blue&hide_border=true" alt="Cal's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=calhrgraham-pixel&theme=darkhub&no-frame=true&row=1&column=6" alt="Cal's Trophies" />
 </p>
 
 ---
