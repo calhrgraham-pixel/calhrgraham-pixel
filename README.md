@@ -37,7 +37,7 @@ I'm a second-year **Computer Science** student at the **Illinois Institute of Te
 
 ---
 
-## Tech Stack
+##  Tech Stack
 
 **Languages:**
 
@@ -72,7 +72,8 @@ I'm a second-year **Computer Science** student at the **Illinois Institute of Te
 
 ---
 
-## Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cal-graham-394107219)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calhrgraham@gmail.com)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://cash-interactive.itch.io/)
