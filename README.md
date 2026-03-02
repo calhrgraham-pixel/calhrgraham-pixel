@@ -67,6 +67,8 @@ I'm a second-year **Computer Science** student at the **Illinois Institute of Te
 ![Jira](https://img.shields.io/badge/Jira-0052cc?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052cc?style=for-the-badge&logo=trello&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-cc0000?style=for-the-badge&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Office Suites:**
 
