@@ -7,7 +7,7 @@ I'm a second-year **Computer Science** student at the **Illinois Institute of Te
 ## What I'm Up To
 
 -  Working as a **Part-Time Game Developer** at Rackico Games / Stratton Studios on an in-development RPG
--  Pursuing coursework toward an accelerated **Master's in AI**
+-  Pursuing coursework toward an accelerated **Master's in Artificial Intelligence**
 -  Currently studying Systems Programming, Data Structures, Database Organization & more
 -  Building games with **Unity**, **GameMaker**, and **Godot**
 
