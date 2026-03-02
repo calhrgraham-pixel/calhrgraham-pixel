@@ -26,14 +26,17 @@ I'm a second-year **Computer Science** student at the **Illinois Institute of Te
 
 ## Projects
 
-**GameMaker 2D Platforming Game Demo** · *Aug 2023 – Dec 2023*
-- Formulated a game design document to roadmap development and track progress
-- Analyzed 2D platformer market trends to differentiate the demo from competitors
-- Developed player movement, puzzle-solving & platforming physics using GML
-- Presented the demo to a panel of judges and answered questions on the development process
+**MyCoach - AI Fitness Coach** · *Feb 2025*
+- Developed an app that uses an AI agent to generate a workout plan
+- Analyzes 7 user-provided parameters that are parsed into a prompt for Anthropic AI
+- User can save plans, log workouts, and track progress with graphs
+- Backend: Vercel Hosting, Supabase, Supabase Auth, Anthropic Claude AI
 
-**Unity First-Person Horror Game Demo** · *Jan 2024 – May 2024*
-- Developed a first-person horror experience using the Unity game engine
+**CAsh Interactive** · *Oct 2025 – Present*
+- Indie game company run with a fellow student, developing games with GameMaker and Godot
+- 2 releases on Itch.io
+- Participation in several game jams
+- Currently developing a 2D top-down action roguelite
 
 ---
 
