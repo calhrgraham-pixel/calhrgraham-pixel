@@ -27,10 +27,11 @@ I'm a second-year **Computer Science** student at the **Illinois Institute of Te
 ## Projects
 
 **MyCoach - AI Fitness Coach** · *Feb 2025*
-- Developed an app that uses an AI agent to generate a workout plan
+- Developed a web app that uses an AI agent to generate a workout plan
 - Analyzes 7 user-provided parameters that are parsed into a prompt for Anthropic AI
 - User can save plans, log workouts, and track progress with graphs
 - Backend: Vercel Hosting, Supabase, Supabase Auth, Anthropic Claude AI
+- Frontend: Single HTML, CSS, Javascript program
 
 **CAsh Interactive** · *Oct 2025 – Present*
 - Indie game company run with a fellow student, developing games with GameMaker and Godot
